@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.veev.app"
+        id        = "com.mclub.app"
         version   = "1.0.0">
 
     <name>Veev</name>
@@ -12,7 +12,7 @@
         Hello World sample application that responds to the deviceready event.
     </description>
 
-    <author href="http://veevoce.com" email="support@veevoce.com">
+    <author href="http://mclubapp.com" email="support@mclubapp.com">
         PhoneGap Team
     </author>
 
