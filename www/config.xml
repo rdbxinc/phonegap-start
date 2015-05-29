@@ -6,7 +6,7 @@
         id        = "com.mclub.app"
         version   = "1.0.0">
 
-    <name>Veev</name>
+    <name>MClub</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
